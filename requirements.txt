@@ -1,0 +1,11 @@
+langchain
+torch
+dedoc
+streamlit
+tesseract
+pytesseract
+langchain-openai     
+unstructured
+unstructured[pdf]
+opencv-python
+faiss-cpu
