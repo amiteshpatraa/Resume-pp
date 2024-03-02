@@ -15,6 +15,7 @@ from onet import onet_job_title_to_onet_code
 os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
 
+
 def home_page():
     # Home page title
     st.title("Welcome to ResumeRevealer - Your Comprehensive Resume Parser!")
